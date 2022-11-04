@@ -1,8 +1,11 @@
 # filecoin-notes
 A compilation of various notes, articles, and additional curated media related to Filecoin
 
+Consider applying for grant as pat of project...
+
 ## resources
 https://filecoin.io/blog/posts/what-sets-us-apart-filecoin-s-proof-system/
+https://github.com/filecoin-project/devgrants/blob/master/microgrants/microgrants.md
 
 ### glossary
 
